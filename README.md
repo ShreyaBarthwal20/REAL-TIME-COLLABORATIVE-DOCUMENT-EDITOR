@@ -1,3 +1,14 @@
+#REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
+*COMPANY*: COTECH IT SOLUTIONS
+*NAME*: SHREYA BARTHWAL
+*INTERN ID*: CT080WJ
+*DOMAIN*: FULL STACK WEB DEVELOPMENT
+*DURATION*: 4 WEEKS
+*MENTOR* : NEELA SANTOSH
+
+
+A realtime collaborative rich-text editor using Conflict-free Replicated Data Types (CRDTs) and Google's WebRTC framework. With this editor, several users can edit documents together in realtime with automatic conflict-merge and user-intent preservation.
+
 # npm - a JavaScript package manager
 
 [![npm version](https://img.shields.io/npm/v/npm.svg)](https://npm.im/npm)
